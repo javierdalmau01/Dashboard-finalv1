@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Dashboard Cripto Real',
-  description: 'Versión final lista para producción'
+  title: 'Dashboard Cripto Completo',
+  description: 'Versión con todos los datos integrados'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
